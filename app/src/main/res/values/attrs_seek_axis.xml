@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="Seekaxis">
+        <attr name="expanded" format="boolean" />
+        <attr name="cursor" format="integer" />
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

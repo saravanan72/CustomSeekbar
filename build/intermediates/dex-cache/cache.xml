@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_9e73226580832d0e76977c09b0c77a02d1ec8d1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_08095f39befce95c332fcbde4d5632063e34ffe2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_fbde32a18ffc578343720c093813cc1fc7d441d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_03d003fab7ea12406c923b2f6159d1d6d30821a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ab220d9461ec9cbeb95f0038afdeee042683bd14">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\instant-run_000eff6a4f689af5ab14cc3360d45a48015dd249.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44f44891850ae1f2dad96bd00e29140ce042699e">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_164f5ad5beeeeb09de1f247225c2f0f29595c252.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_089de2ac386ef7b1b609b12529108b8c1581407e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_cd3bfc3ae022736c68d75fea8c6b4fd44ad1e9bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Saravana.Pandian\Documents\workspace\CustomSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_d4a4f18d7232228eaacab988c6bb7f98883f53eb.jar" />
+    </item>
+
+</items>
